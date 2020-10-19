@@ -16,4 +16,4 @@ SIG-Dapr 是 [云原生社区](https://cloudnative.to) 下的 Dapr SIG(Special I
 
 扫描下面的二维码，添加 Abser(WeChatID: abser9216) 好友，备注姓名-公司，留言“加入 SIG-Dapr ”即可。
 
-![](doc/images/wechat.jpg)
+![](https://i.loli.net/2020/10/01/D9Ryw8Qqn2zHaMK.jpg)
