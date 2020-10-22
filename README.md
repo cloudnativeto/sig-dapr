@@ -13,6 +13,6 @@
   如果有合适的资源欢迎提交 PR（Pull Request）合入推荐阅读文章。
 
 ## 加入我们
-  [加入云原生社区](https://cloudnative.to/contact)并填写问卷
+  [加入云原生社区](https://cloudnative.to/contact)并填写[问卷](https://wj.qq.com/s2/5479026/bf82/)
   
 ![](https://i.loli.net/2020/10/22/7E6DNzWuBj2skeG.png)
