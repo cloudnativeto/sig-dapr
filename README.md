@@ -13,8 +13,6 @@
   如果有合适的资源欢迎提交 PR（Pull Request）合入推荐阅读文章。
 
 ## 加入我们
-
-  源码研习社也有自己的微信群，如何加入？填写以下问卷,并勾选上 Dapr-SIG. 填写完问卷后截图发送给 Jimmy，就可以加入到云原生社区微信群啦！入群后请先自我介绍哦！
-
-* https://wj.qq.com/s2/5479026/bf82/
+  [加入云原生社区](https://cloudnative.to/contact)并填写问卷
+  
 ![](https://i.loli.net/2020/10/22/7E6DNzWuBj2skeG.png)
