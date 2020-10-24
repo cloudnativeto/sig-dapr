@@ -8,6 +8,7 @@
 * [Dapr 官网](https://dapr.io/): 首页可以满足基本的资料要求.
 * [Dapr Doc](https://github.com/dapr/docs): 相关文档, 现在还没有做成网站.
 * [Gitter 聊天室](https://gitter.im/Dapr/community): 官方聊天室, 正在考虑转移社区到其他工具如 slack.
+* [Dapr 的 Todo 面板](https://www.tickgit.com/browse?repo=github.com/dapr/dapr): 除了 issues 外还可以参与这里的开发。
 
 ### 欢迎贡献
   如果有合适的资源欢迎提交 PR（Pull Request）合入推荐阅读文章。
