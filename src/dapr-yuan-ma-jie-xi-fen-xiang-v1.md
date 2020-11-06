@@ -30,7 +30,7 @@ description: 来自 @abserari
 
 **Registry**
 
-![](https://cdn.nlark.com/yuque/0/2020/jpeg/176280/1598329630490-a2139211-89fb-4e23-b62c-ed58b1922b47.jpeg#align=left&display=inline&height=489&margin=%5Bobject%20Object%5D&name=dapr-components.jpg&originHeight=489&originWidth=711&size=26766&status=done&style=none&width=711)
+![](../.gitbook/assets/dapr-components-3-.jpg)
 
 组件的实现都在另一个库 dapr/components-contrib 里.
 
@@ -38,11 +38,13 @@ Registry 接口含 Register 和 Create 两个函数签名. 组件实现之后注
 
 Create 时, 参数带 Component Name 调用指定的 FactoryMethod 方法生成组件实例.
 
+![&#x4E24;&#x79CD;&#x90E8;&#x7F72;&#x6A21;&#x5F0F;&#x4E0B;&#x7684; Components ](../.gitbook/assets/dapr-container-update-1-.jpg)
+
 **BindingComponents**
 
 **Binding API**
 
-![](https://cdn.nlark.com/yuque/0/2020/jpeg/176280/1598004069091-68fec55d-13f8-4645-8213-581f5569accd.jpeg#align=left&display=inline&height=337&margin=%5Bobject%20Object%5D&name=dapr-api-name.jpg&originHeight=337&originWidth=647&size=23768&status=done&style=none&width=647)
+![](../.gitbook/assets/dapr-api-name-1-.jpg)
 
 Dapr 的 API 命名机制使用 components 的 YAML 配置文件中 components 的 name 来作为 API 的命名.
 
@@ -50,7 +52,7 @@ Dapr 的 API 命名机制使用 components 的 YAML 配置文件中 components �
 
 **Pubsub API**
 
-![](https://cdn.nlark.com/yuque/0/2020/jpeg/176280/1598330330752-6f479754-19e4-488c-a9c8-24380a15e43f.jpeg#align=left&display=inline&height=489&margin=%5Bobject%20Object%5D&name=dapr-pub_sub%20%281%29.jpg&originHeight=489&originWidth=667&size=27143&status=done&style=none&width=667)
+![](../.gitbook/assets/dapr-pub_sub-3-.jpg)
 
 用户使用 Dapr 的 Pubsub 功能时, 需提供 Handler 以供 Dapr 访问得到用户的订阅信息.
 
@@ -58,7 +60,7 @@ Dapr 的 API 命名机制使用 components 的 YAML 配置文件中 components �
 
 **Interface**
 
-![](https://cdn.nlark.com/yuque/0/2020/jpeg/176280/1598330703098-5651f1e9-9034-4e42-8a6d-a214a66cc704.jpeg#align=left&display=inline&height=375&margin=%5Bobject%20Object%5D&name=dapr-StateStore.jpg&originHeight=375&originWidth=526&size=23010&status=done&style=none&width=526)
+![](../.gitbook/assets/dapr-statestore-2-.jpg)
 
 StateStore 用于 Key-Value State 存储. Options 用于标识 Concurrency 和 Consistency
 
@@ -74,7 +76,7 @@ AppChannel 是 Dapr 和 用户代码交互的桥梁.
 
 **DirectMessage**
 
-![](https://cdn.nlark.com/yuque/0/2020/jpeg/176280/1598195667046-d841af2e-5365-4a98-8b80-0f531a2050fc.jpeg#align=left&display=inline&height=559&margin=%5Bobject%20Object%5D&name=dapr-DirectMessage.jpg&originHeight=559&originWidth=651&size=31980&status=done&style=none&width=651)
+![](../.gitbook/assets/dapr-directmessage.jpg)
 
 **Snippets**
 
@@ -94,7 +96,7 @@ AppChannel 是 Dapr 和 用户代码交互的桥梁.
 
 **Internal**
 
-![](https://cdn.nlark.com/yuque/0/2020/jpeg/176280/1598328548403-06ad4958-7a5a-4c65-87ff-b15c98c2315f.jpeg#align=left&display=inline&height=392&margin=%5Bobject%20Object%5D&name=dapr-actors.jpg&originHeight=392&originWidth=485&size=22251&status=done&style=none&width=485)
+![](../.gitbook/assets/dapr-actors-2-.jpg)
 
 Placement 是单独的 HTTP server, 用于存储 Actors 在不同 Host 上的信息. Dapr init 会启动 Placement 的 docker 容器.
 
