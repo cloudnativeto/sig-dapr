@@ -70,7 +70,7 @@ StateStore 用于 Key-Value State 存储. Options 用于标识 Concurrency 和 C
 
 ![&#x5B98;&#x7F51;&#x56FE; - Kubernetes &#x4E0B;&#x7684;&#x4EA4;&#x4E92;](https://docs.dapr.io/images/overview-sidecar-kubernetes.png)
 
-![](https://cdn.nlark.com/yuque/0/2020/jpeg/176280/1598331470820-23557c8a-f67a-4435-b988-057aec110547.jpeg#align=left&display=inline&height=453&margin=%5Bobject%20Object%5D&name=dapr-channel.jpg&originHeight=453&originWidth=519&size=25004&status=done&style=none&width=519)
+![](../.gitbook/assets/dapr-channel-2-.jpg)
 
 AppChannel 是 Dapr 和 用户代码交互的桥梁.
 
