@@ -1,4 +1,8 @@
-# SIG-Dapr
+---
+description: 云原生社区 Dapr 特别兴趣小组
+---
+
+# Dapr SIG
 
 SIG-Dapr 是 [云原生社区](https://cloudnative.to) 下的 Dapr SIG\(Special Interesting Group: 特别兴趣小组，以下统称 SIG\)。SIG 目的是为了给在某一个领域志同道合的人共同学习和交流的平台。本小组主题为 [Dapr](https://dapr.io/)，可以在本小组交流 Dapr 相关如落地实践，源码研究，社区贡献，ServiceMesh 的进展及其他相关事件。希望在这里的每一位小伙伴能够一起交流，一起成长。
 

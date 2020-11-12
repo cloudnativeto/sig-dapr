@@ -1,6 +1,6 @@
 # Table of contents
 
-* [SIG-Dapr](README.md)
+* [Dapr SIG](README.md)
 * [FAQ](faq.md)
 
 ## src
