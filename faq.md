@@ -2,7 +2,7 @@
 description: Welcome to FAQ
 ---
 
-# FAQ
+# 社区 FAQ
 
 ## Exp: 如何加入本 SIG?
 

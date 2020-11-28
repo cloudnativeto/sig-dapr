@@ -6,6 +6,8 @@
 [社区 Issues 列表](https://docs.qq.com/sheet/DTlFjeEd0SWNLR05I?tab=BB08J2)
 
 [社区 GitHub ID 列表](https://docs.qq.com/sheet/DTmpIaERHeld5Tk5h?tab=BB08J2)
+
+[社区贡献跟踪板](https://observablehq.com/@yhyddr/community-contribution-tracking)
 {% endhint %}
 
 ## [第四次会议](https://docs.qq.com/doc/DTlNWYlFkdXhBa01K)

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Dapr SIG](README.md)
-* [FAQ](faq.md)
+* [社区 FAQ](faq.md)
 
 ## src
 
@@ -11,4 +11,5 @@
 ---
 
 * [社区 PR 跟踪](she-qu-pr-gen-zong.md)
+* [问题 FAQ](wen-ti-faq.md)
 
