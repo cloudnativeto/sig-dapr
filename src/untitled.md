@@ -10,6 +10,8 @@
 [社区贡献跟踪板](https://observablehq.com/@yhyddr/community-contribution-tracking)
 {% endhint %}
 
+## [第六次会议](https://docs.qq.com/doc/DTnhZSkp5SktpTEZK)
+
 ## [第五次会议](https://docs.qq.com/doc/DTnBpR0RSQ0xqZHNY)
 
 ## [第四次会议](https://docs.qq.com/doc/DTlNWYlFkdXhBa01K)
