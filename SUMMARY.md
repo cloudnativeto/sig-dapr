@@ -5,11 +5,12 @@
 
 ## src
 
-* [Dapr 源码解析分享 v1](src/dapr-yuan-ma-jie-xi-fen-xiang-v1.md)
+* [社区资料](src/she-qu-zi-liao.md)
 * [会议文档](src/untitled.md)
 
 ---
 
 * [社区 PR 跟踪](she-qu-pr-gen-zong.md)
 * [问题 FAQ](wen-ti-faq.md)
+* [Dapr 源码解析分享 v1](dapr-yuan-ma-jie-xi-fen-xiang-v1.md)
 
