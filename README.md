@@ -4,7 +4,7 @@ description: 云原生社区 Dapr 特别兴趣小组
 
 # Dapr SIG
 
-Dapr SIG 是 [云原生社区](https://cloudnative.to) 主办的特别兴趣小组（SGI）。SIG 目的是为了给在某一个领域志同道合的人共同学习和交流的平台。本小组主题为 [Dapr](https://dapr.io/)，可以在本小组交流 Dapr 相关如落地实践，源码研究，社区贡献，Service Mesh 的进展及其他相关事件。希望在这里的每一位小伙伴能够一起交流，一起成长。
+Dapr SIG 是 [云原生社区](https://cloudnative.to) 主办的特别兴趣小组（SIG）。SIG 目的是为了给在某一个领域志同道合的人共同学习和交流的平台。本小组主题为 [Dapr](https://dapr.io/)，可以在本小组交流 Dapr 相关如落地实践，源码研究，社区贡献，Service Mesh 的进展及其他相关事件。希望在这里的每一位小伙伴能够一起交流，一起成长。
 
 ## 简单资源整理
 
