@@ -7,6 +7,7 @@
 ## src
 
 * [案例分享](src/an-li-fen-xiang.md)
+* [场景分享](src/chang-jing-fen-xiang.md)
 * [社区文档](src/she-qu-wen-dang.md)
 * [会议文档](src/untitled.md)
 * [实践 FAQ](src/wen-ti-faq.md)

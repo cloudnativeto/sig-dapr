@@ -9,7 +9,7 @@ Dapr SIG 是 [云原生社区](https://cloudnative.to) 主办的特别兴趣小�
 ## 简单资源整理
 
 * [Dapr GitHub Repo](https://github.com/dapr/dapr): GitHub 库, 核心代码.
-* [Dapr Blog](https://blog.dapr.io/posts/2020/): 也可以由主页进入.
+* [Dapr Blog](https://blog.dapr.io/posts): 也可以由主页进入.
 * [Dapr 官网](https://dapr.io/): 首页可以满足基本的资料要求.
 * [Dapr Doc](https://github.com/dapr/docs): 相关文档, 已经做成了网站
 * [DIscord](https://discord.com/invite/ptHhX6jc34): 官方聊天室 已经转移到了 Discord. 点击链接加入
