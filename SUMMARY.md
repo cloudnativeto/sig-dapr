@@ -2,6 +2,7 @@
 
 * [Dapr SIG](README.md)
 * [社区 FAQ](faq.md)
+* [翻译文档](fan-yi-wen-dang.md)
 
 ## src
 
