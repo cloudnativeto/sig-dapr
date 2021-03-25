@@ -6,7 +6,7 @@ description: 来自 @abserari
 
 **Dapr**
 
-![&#x5B98;&#x7F51;&#x56FE;](../.gitbook/assets/image%20%281%29.png)
+![&#x5B98;&#x7F51;&#x56FE;](../.gitbook/assets/image%20%281%29%20%281%29.png)
 
 **Ability Introduction**
 
