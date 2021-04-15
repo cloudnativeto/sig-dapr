@@ -37,7 +37,5 @@ Dapr SIG 是 [云原生社区](https://cloudnative.to/) 主办的特别兴趣小
 
 ## 加入我们
 
-[填写问卷申请加入云原生社区。](https://wj.qq.com/s2/8219652/fb37)
-
-![](https://i.loli.net/2020/10/22/7E6DNzWuBj2skeG.png)
+[填写问卷申请加入云原生社区 Dapr SIG 微信群](https://wj.qq.com/s2/8219652/fb37)。
 
